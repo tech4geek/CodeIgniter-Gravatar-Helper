@@ -1,5 +1,5 @@
 
-Gravatar Helper Spark for CodeIgniter
+Gravatar Helper for CodeIgniter
 ============================
 
 [Gravatar](http://gravatar.com) Helper functions to utilize with [CodeIgniter](http://codeigniter.com) 2.x and 3.x or Standard PHP Application.
