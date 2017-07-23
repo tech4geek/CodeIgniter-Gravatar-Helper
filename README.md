@@ -23,7 +23,7 @@
  * @return String containing either just a URL or a complete image tag
  */
 
-<?php echo gravatar( 'test@github.com', 180 )?>
+<?php echo get_gravatar( 'test@github.com', 180 )?>
 ```
 
 ## License
