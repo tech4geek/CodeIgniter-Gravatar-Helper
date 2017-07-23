@@ -2,13 +2,13 @@
 
 [Gravatar](http://gravatar.com) Helper functions to utilize with [CodeIgniter](http://codeigniter.com) 2.x and 3.x or Standard PHP Application.
 
-## Integration {#integration}
+## Integration
 
 1. Copy `gravatar_helper.php` to your `application/helpers` folder.
 2. Autoload the helper in `application/config/autoload.php`: $autoload\['helper'\] = array\('gravatar'\);
 3. Use helper functions as needed.
 
-## Examples {#examples}
+## Examples
 
 ```
 /**
@@ -26,7 +26,7 @@
 <?php echo gravatar( 'test@github.com', 180 )?>
 ```
 
-## License {#license}
+## License
 
 © 2016 Omkar Tapale. All Rights Reserved.
 
