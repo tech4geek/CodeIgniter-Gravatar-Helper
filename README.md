@@ -1,6 +1,6 @@
 # Gravatar Helper for CodeIgniter
 
-[Gravatar](http://gravatar.com) Helper functions to utilize with [CodeIgniter](http://codeigniter.com) 2.x and 3.x or Standard PHP Application.
+[Gravatar](https://gravatar.com) Helper functions to utilize with [CodeIgniter](https://codeigniter.com) 2.x and 3.x or Standard PHP Application.
 
 ## Integration
 
@@ -30,5 +30,5 @@
 
 © 2016 Omkar Tapale. All Rights Reserved.
 
-Released under the MIT License: [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
+Released under the MIT License: [https://www.opensource.org/licenses/mit-license.php](https://www.opensource.org/licenses/mit-license.php)
 

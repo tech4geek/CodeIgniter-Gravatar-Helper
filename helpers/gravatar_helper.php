@@ -13,8 +13,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @author		Omkar Tapale
  * @copyright   2016 Omkar Tapale
  * @license     MIT
- * @license     http://www.opensource.org/licenses/mit-license.php
- * @version     v1.0.0
+ * @license     https://www.opensource.org/licenses/mit-license.php
+ * @version     v1.0.1
  *
  * The latest version of CodeIgniter Gravatar Helper can be obtained from:
  * https://github.com/omkartapale/CodeIgniter-Gravatar-Helper
@@ -33,10 +33,10 @@ if (!function_exists('get_gravatar')) {
      * @param bool $img True to return a complete IMG tag False for just the URL
      * @param array $atts Optional, additional key/value attributes to include in the IMG tag
      * @return String containing either just a URL or a complete image tag
-     * @source http://gravatar.com/site/implement/images/php/
+     * @source https://gravatar.com/site/implement/images/php/
      */
     function get_gravatar( $email, $s = 80, $d = 'mm', $r = 'g', $img = false, $atts = array() ) {
-        $url = 'http://www.gravatar.com/avatar/';
+        $url = 'https://www.gravatar.com/avatar/';
         $url .= md5( strtolower( trim( $email ) ) );
         $url .= "?s=$s&d=$d&r=$r";
         if ( $img ) {
